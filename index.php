@@ -12,16 +12,13 @@
 
     $baseurl = '/snaptik';
     $basepath = $protocol . $_SERVER['HTTP_HOST'].$baseurl; 
-
-
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>SnapTik: Tiktok Downloader Tools - Download videos Tiktok Without Watermark for Free !</title>
+<title>SnapTik: Tiktok Downloader Tools - Download videos Tiktok Without Watermark for Free!</title>
 <meta name="robots" content="index,follow">
 <meta name="revisit-after" content="1 days">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5, shrink-to-fit=no">
