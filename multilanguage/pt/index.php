@@ -312,7 +312,7 @@ $langcode = 'pt';
             };
             app.start();
         </script>
-<script type="text/javascript">var url = '<?php echo $basepath; ?>';</script>
+<script type="text/javascript">var url = '<?php echo $basepath; ?>/';</script>
 <script src="https://unpkg.com/@phosphor-icons/web"></script>
 <script src="<?php echo asset('snaptik/assets/js/jquery.min.js'); ?>" type="text/javascript"></script>
 <script src="<?php echo asset('snaptik/assets/js/main.js'); ?>" type="text/javascript"></script>
