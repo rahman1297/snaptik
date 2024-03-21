@@ -320,7 +320,7 @@ $languages = [
         <p>Saya sekarang menyediakan aplikasi untuk mengunduh video TikTok. Cepat, mudah, tanpa watermark, dan kualitas HD</p>
         <div class="iconapp-box flex-center"><a href="#" target="_blank" rel="nofollow noopener" class="link-store"><i class="icon icon-ggplay"></i></a></div>
         <h3 class="h3">Unduh Video TikTok (Musically) Tanpa Watermark GRATIS</h3>
-        <p>SnapTik.Ltd adalah salah satu Pengunduh TikTok terbaik yang tersedia secara online untuk mengunduh video tiktok tanpa watermark. Anda tidak perlu menginstal perangkat lunak apa pun di komputer atau ponsel Anda, yang Anda butuhkan hanyalah tautan video TikTok, dan semua pemrosesan dilakukan di pihak kami sehingga Anda hanya satu klik dari mengunduh video ke perangkat Anda.</p>
+        <p>ssj.mp3juice.blog/snaptik/id/ adalah salah satu Pengunduh TikTok terbaik yang tersedia secara online untuk mengunduh video tiktok tanpa watermark. Anda tidak perlu menginstal perangkat lunak apa pun di komputer atau ponsel Anda, yang Anda butuhkan hanyalah tautan video TikTok, dan semua pemrosesan dilakukan di pihak kami sehingga Anda hanya satu klik dari mengunduh video ke perangkat Anda.</p>
         <h4 class="h4 mt-3">Fitur utama:</h4>
         <ul>
         <li>Tidak ada watermark untuk kualitas yang lebih baik, yang tidak dapat dilakukan oleh sebagian besar alat di luar sana.</li>
@@ -342,7 +342,7 @@ $languages = [
         <li>Klik tombol <span class="btn-click">Bagikan</span> di kanan bawah.</li>
         <li>Klik tombol <span class="btn-click">Salin Tautan</span>.</li>
         <li>Unduh dengan menggunakan peramban Anda: Saya ingin membuat hal-hal sederhana untuk Anda. Tidak perlu mengunduh atau menginstal perangkat lunak apa pun. Saya membuat aplikasi untuk tujuan ini juga tetapi Anda hanya dapat menginstalnya kapan saja Anda suka.</li>
-        <li>Kembali ke SnapTik.Ltd dan tempelkan tautan unduhan Anda ke dalam kotak di atas lalu klik tombol <span class="btn-click">Unduh</span>.</li>
+        <li>Kembali ke ssj.mp3juice.blog/snaptik/id/ dan tempelkan tautan unduhan Anda ke dalam kotak di atas lalu klik tombol <span class="btn-click">Unduh</span>.</li>
         <li>Tunggu server kami untuk melakukan pekerjaannya, dan kemudian simpan video ke perangkat Anda.</li>
         </ul>
         </div>

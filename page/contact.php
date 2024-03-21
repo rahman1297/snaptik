@@ -137,12 +137,8 @@ function asset($url) {
     </div>
     <button type="submit" name="btn-send" value="submit" class="btn btn-main">Send</button>
     </form>
-    <p>We are here to answer any questions or inquiries that you may have. Reach out to us and we will respond as soon as possible. In the mean time please have a look at our <a href="https://snaptik.ltd/landing/terms-of-service/">terms of service</a>.</p>
+    <p>We are here to answer any questions or inquiries that you may have. Reach out to us and we will respond as soon as possible. In the mean time please have a look at our <a href="https://ssj.mp3juice.blog/snaptik/tos">terms of service</a>.</p>
     <p><br></p>
-    <p><span style="font-size: 18px;">Follow us:</span></p>
-    <ul>
-    <li><a href="https://www.youtube.com/channel/UCG4kMD1fh35T4QrpydSJAjA" rel="noopener noreferrer" target="_blank">Youtube</a></li>
-    </ul>
     <p>Email: <a href="/cdn-cgi/l/email-protection#8dfee3ecfdf9e4e6e1f9e9cdeae0ece4e1a3eee2e0"><span class="__cf_email__" data-cfemail="e2918c8392968b898e9686a2858f838b8ecc818d8f">[email&#160;protected]</span></a></p>
     </div>
     </div>
