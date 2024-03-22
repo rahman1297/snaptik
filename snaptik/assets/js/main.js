@@ -58,7 +58,8 @@ if (form) {
             "tiktok": true,
             "menu": document.getElementById("menu").value ? document.getElementById("menu").value : null,
             "download_url": url + "download",
-            "website_url": url
+            "website_url": url,
+            "webpage_download_url": url + "wdl/download-webpage"
          });
         progress.classList.add('active');
         runProgress();
