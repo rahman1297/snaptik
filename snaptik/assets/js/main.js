@@ -59,7 +59,7 @@ if (form) {
             "menu": document.getElementById("menu").value ? document.getElementById("menu").value : null,
             "download_url": url + "download",
             "website_url": url,
-            "webpage_download_url": url + "wdl/download-webpage"
+            "webpage_download_url": "https://cdn.snaptik.vip/wdl/download"
          });
         progress.classList.add('active');
         runProgress();
